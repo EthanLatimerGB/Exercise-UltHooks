@@ -1,0 +1,46 @@
+{
+  "notes": [
+    {
+      "content": "Ernie is a wanker",
+      "id": 1
+    },
+    {
+      "content": "jlasdf",
+      "id": 2
+    },
+    {
+      "content": "dsfgsdfg",
+      "id": 5
+    },
+    {
+      "content": "A new note",
+      "id": 6
+    },
+    {
+      "content": "asdfasdfasdf",
+      "id": 7
+    }
+  ],
+  "persons": [
+    {
+      "name": "Ethan",
+      "number": "9087234523",
+      "id": 1
+    },
+    {
+      "name": "Ethan",
+      "number": "08394752345",
+      "id": 2
+    },
+    {
+      "name": "gsdfgs",
+      "number": "ddfgsdfgs",
+      "id": 5
+    },
+    {
+      "name": "asfdasdfasd",
+      "number": "asdfasdfa",
+      "id": 6
+    }
+  ]
+}
